@@ -27,14 +27,6 @@ Robotic Engineering graduate with a passion for building humanoid robots and bri
 
 ---
 
-## 📫 Get in Touch
-- 🌐 Website: [hyperpixedai.com](https://www.hyperpixedai.com)  
-- 🐙 GitHub: [salmanalfarisi11](https://github.com/salmanalfarisi11)  
-- 💼 LinkedIn: [in/salmanalfarisi11](https://www.linkedin.com/in/salmanalfarisi11)  
-- 📧 Email: faris.salman111@example.com  
-
----
-
 ## 📊 GitHub Stats
 ![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanalfarisi11&show_icons=true&theme=default)
 
