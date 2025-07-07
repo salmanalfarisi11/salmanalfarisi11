@@ -35,6 +35,17 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
   <img alt="ROS2"    width="40px" src="https://img.shields.io/badge/ROS2-000000?style=flat-square&logo=ros&logoColor=white" />
   <img alt="Gazebo"  width="40px" src="https://img.shields.io/badge/Gazebo-00659C?style=flat-square&logo=gazebo&logoColor=white" />
   <img alt="RViz"    width="40px" src="https://img.shields.io/badge/RViz-4C6CB1?style=flat-square" />
+
+    <!-- AI & ML Frameworks -->
+  <img alt="TensorFlow"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img alt="PyTorch"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img alt="Keras"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+  <img alt="scikit-learn"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img alt="OpenCV"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+  <img alt="YOLOv12"       width="40px" src="https://img.shields.io/badge/YOLOv12-000000?style=flat-square&logo=yolov12&logoColor=white" />
+
+  <!-- Data Mining -->
+  <img alt="Orange Data Mining" width="40px" src="https://img.shields.io/badge/Orange_Data_Mining-EE7624?style=flat-square&logo=orange&logoColor=white" />
   
   <!-- Web stack -->
   <img alt="HTML5"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -48,17 +59,6 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
   <img alt="C#"          width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="C++"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Python"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-  <!-- AI & ML Frameworks -->
-  <img alt="TensorFlow"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img alt="PyTorch"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img alt="Keras"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-  <img alt="scikit-learn"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-  <img alt="OpenCV"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  <img alt="YOLOv12"       width="40px" src="https://img.shields.io/badge/YOLOv12-000000?style=flat-square&logo=yolov12&logoColor=white" />
-
-  <!-- Data Mining -->
-  <img alt="Orange Data Mining" width="40px" src="https://img.shields.io/badge/Orange_Data_Mining-EE7624?style=flat-square&logo=orange&logoColor=white" />
 
   <!-- Embedded & Versioning -->
   <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
