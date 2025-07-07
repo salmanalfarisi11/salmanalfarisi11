@@ -29,6 +29,13 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
 ## 🛠️ Languages & Tools
 
 <p align="left">
+  <!-- Robotics & Simulation -->
+  <img alt="CVAT"    width="40px" src="https://img.shields.io/badge/CVAT-1A82F7?style=flat-square" />
+  <img alt="ROS"     width="40px" src="https://img.shields.io/badge/ROS-000000?style=flat-square&logo=ros&logoColor=white" />
+  <img alt="ROS2"    width="40px" src="https://img.shields.io/badge/ROS2-000000?style=flat-square&logo=ros&logoColor=white" />
+  <img alt="Gazebo"  width="40px" src="https://img.shields.io/badge/Gazebo-00659C?style=flat-square&logo=gazebo&logoColor=white" />
+  <img alt="RViz"    width="40px" src="https://img.shields.io/badge/RViz-4C6CB1?style=flat-square" />
+  
   <!-- Web stack -->
   <img alt="HTML5"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -48,22 +55,10 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
   <img alt="Keras"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
   <img alt="scikit-learn"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img alt="OpenCV"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  <img alt="YOLOv3"        width="40px" src="https://img.shields.io/badge/YOLOv3-000000?style=flat-square&logo=yolo&logoColor=white" />
-  <img alt="YOLOv4"        width="40px" src="https://img.shields.io/badge/YOLOv4-000000?style=flat-square&logo=yolo&logoColor=white" />
-  <img alt="YOLOv5"        width="40px" src="https://img.shields.io/badge/YOLOv5-000000?style=flat-square&logo=yolo&logoColor=white" />
-  <img alt="YOLOv7"        width="40px" src="https://img.shields.io/badge/YOLOv7-000000?style=flat-square&logo=yolo&logoColor=white" />
-  <img alt="YOLOv8"        width="40px" src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logo=yolo&logoColor=white" />
   <img alt="YOLOv12"       width="40px" src="https://img.shields.io/badge/YOLOv12-000000?style=flat-square&logo=yolov12&logoColor=white" />
 
   <!-- Data Mining -->
   <img alt="Orange Data Mining" width="40px" src="https://img.shields.io/badge/Orange_Data_Mining-EE7624?style=flat-square&logo=orange&logoColor=white" />
-
-  <!-- Robotics & Simulation -->
-  <img alt="CVAT"    width="40px" src="https://img.shields.io/badge/CVAT-1A82F7?style=flat-square" />
-  <img alt="ROS"     width="40px" src="https://img.shields.io/badge/ROS-000000?style=flat-square&logo=ros&logoColor=white" />
-  <img alt="ROS2"    width="40px" src="https://img.shields.io/badge/ROS2-000000?style=flat-square&logo=ros&logoColor=white" />
-  <img alt="Gazebo"  width="40px" src="https://img.shields.io/badge/Gazebo-00659C?style=flat-square&logo=gazebo&logoColor=white" />
-  <img alt="RViz"    width="40px" src="https://img.shields.io/badge/RViz-4C6CB1?style=flat-square" />
 
   <!-- Embedded & Versioning -->
   <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
