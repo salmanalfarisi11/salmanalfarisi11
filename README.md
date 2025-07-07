@@ -14,8 +14,8 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
 ---
 
 ## 🚀 Notable Projects
-- **Humanoid Robot Prototype**  
-  Humanoid Robotics – Developing autonomous humanoid robots 
+- **Humanoid Robotics**  
+  Developing autonomous humanoid robots 
 
 - **HyperPixed AI Platform**  
   An all-in-one browser-based web app for PDF and image editing powered by advanced AI:  
