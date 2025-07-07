@@ -36,7 +36,7 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
   <img alt="Gazebo"  width="40px" src="https://img.shields.io/badge/Gazebo-00659C?style=flat-square&logo=gazebo&logoColor=white" />
   <img alt="RViz"    width="40px" src="https://img.shields.io/badge/RViz-4C6CB1?style=flat-square" />
 
-    <!-- AI & ML Frameworks -->
+  <!-- AI & ML Frameworks -->
   <img alt="TensorFlow"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img alt="PyTorch"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img alt="Keras"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
