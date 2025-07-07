@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there! I'm Salman Alfarisi
 
-<!--
-**salmanalfarisi11/salmanalfarisi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Creator of [HyperPixed AI](https://www.hyperpixedai.com)**  
+Robotic Engineering graduate with a passion for building humanoid robots and bringing AI into real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Expertise
+- 🤖 **Humanoid Robotics**  
+- 💻 **Programming** (Python, C/C++)  
+- 🧠 **Machine Learning & Deep Learning**  
+- 🔌 Embedded Systems & Control  
+
+---
+
+## 🚀 Notable Projects
+- **Humanoid Robot Prototype**  
+  Merancang dan membangun humanoid robot otonom untuk interaksi manusia-mesin.
+
+- **HyperPixed AI Platform**  
+  All-in-one browser-based web app untuk editing PDF & gambar dengan AI canggih:  
+  - 🔧 **PDF Utilities**: Compress, Merge, Split, Convert PDF→Word/JPG, Rotate, Numbering, Watermark  
+  - 🖼️ **Image Tools**: Resize, Crop, Format Conversion, Background Removal & Replacement, Upscale, Face-Swap  
+  - 🔒 **Privacy First**: Semua proses 100% di sisi client—tanpa upload file ke server  
+  - ⚡ **Lightning-Fast**: Real-time preview & UI ringan, dibangun dengan JavaScript & WebAssembly  
+  - 💡 **Hand-crafted**: Dikembangkan murni oleh founder tanpa dependensi eksternal
+
+---
+
+## 📫 Get in Touch
+- 🌐 Website: [hyperpixedai.com](https://www.hyperpixedai.com)  
+- 🐙 GitHub: [salmanalfarisi11](https://github.com/salmanalfarisi11)  
+- 💼 LinkedIn: [in/salmanalfarisi11](https://www.linkedin.com/in/salmanalfarisi11)  
+- 📧 Email: faris.salman111@example.com  
+
+---
+
+## 📊 GitHub Stats
+![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanalfarisi11&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi11&layout=compact&theme=default)
