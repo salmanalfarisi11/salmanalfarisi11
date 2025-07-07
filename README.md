@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Salman Alfarisi
 
 **Founder & Creator of [HyperPixed AI](https://www.hyperpixedai.com)**  
-Robotic Engineering graduate with a passion for building humanoid robots and bringing AI into real-world applications.
+Robotic Engineering graduate passionate about designing humanoid robots and applying AI in real-world solutions.
 
 ---
 
@@ -9,25 +9,25 @@ Robotic Engineering graduate with a passion for building humanoid robots and bri
 - 🤖 **Humanoid Robotics**  
 - 💻 **Programming** (Python, C/C++)  
 - 🧠 **Machine Learning & Deep Learning**  
-- 🔌 Embedded Systems & Control  
+- 🔌 **Embedded Systems & Control**  
 
 ---
 
 ## 🚀 Notable Projects
 - **Humanoid Robot Prototype**  
-  Merancang dan membangun humanoid robot otonom untuk interaksi manusia-mesin.
+  Designed and built an autonomous humanoid robot for human–machine interaction.
 
 - **HyperPixed AI Platform**  
-  All-in-one browser-based web app untuk editing PDF & gambar dengan AI canggih:  
-  - 🔧 **PDF Utilities**: Compress, Merge, Split, Convert PDF→Word/JPG, Rotate, Numbering, Watermark  
-  - 🖼️ **Image Tools**: Resize, Crop, Format Conversion, Background Removal & Replacement, Upscale, Face-Swap  
-  - 🔒 **Privacy First**: Semua proses 100% di sisi client—tanpa upload file ke server  
-  - ⚡ **Lightning-Fast**: Real-time preview & UI ringan, dibangun dengan JavaScript & WebAssembly  
-  - 💡 **Hand-crafted**: Dikembangkan murni oleh founder tanpa dependensi eksternal
+  An all-in-one browser-based web app for PDF and image editing powered by advanced AI:  
+  - 🔧 **PDF Utilities**: Compress, merge, split, convert PDF→Word/JPG, rotate pages, add page numbers, watermark  
+  - 🖼️ **Image Tools**: Resize, crop, format conversion, background removal & replacement, upscale, face swap  
+  - 🔒 **Privacy First**: 100% client-side processing—no file uploads to servers  
+  - ⚡ **Lightning-Fast**: Real-time previews & lightweight UI built with JavaScript & WebAssembly  
+  - 💡 **Hand-crafted**: Developed from scratch by the founder without external dependencies
 
 ---
 
 ## 📊 GitHub Stats
-![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanalfarisi11&show_icons=true&theme=default)
+![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanalfarisi11&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi11&layout=compact&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi11&layout=compact&theme=default)
