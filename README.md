@@ -68,7 +68,7 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
 
 ---
 ## 📊 GitHub Stats
-![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanalfarisi11&show_icons=true&theme=default&cache_seconds=21600)
+![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanalfarisi11&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi11&layout=compact&theme=default&cache_seconds=21600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi11&layout=compact&theme=default)
 
