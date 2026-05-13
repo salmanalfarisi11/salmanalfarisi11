@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Salman Alfarisi
 
-**Founder & Creator of [HyperPixed AI](https://www.hyperpixedai.com)**  
+**Founder & Creator of [EditorSuper AI](https://www.editorsuper.com)**  
 Robotic Engineering graduate passionate about designing humanoid robots and applying AI in real-world solutions.
 
 ---
@@ -17,7 +17,7 @@ Robotic Engineering graduate passionate about designing humanoid robots and appl
 - **Humanoid Robotics**  
   Developing autonomous humanoid robots 
 
-- **HyperPixed AI Platform**  
+- **EditorSuper AI Platform**  
   An all-in-one browser-based web app for PDF and image editing powered by advanced AI:  
   - 🔧 **PDF Utilities**: Compress, merge, split, convert PDF→Word/JPG, rotate pages, add page numbers, watermark  
   - 🖼️ **Image Tools**: Resize, crop, format conversion, background removal & replacement, upscale, face swap  
