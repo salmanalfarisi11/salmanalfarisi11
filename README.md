@@ -41,15 +41,6 @@ Key features:
 - 💻 **Coding Assistance**  
   Salman V1 Ultra can help with writing code, debugging errors, understanding scripts, creating project structures, and explaining technical solutions.
 
-- 👤 **User Account System**  
-  Includes login, registration, user plans, usage limits, and chat history.
-
-- 💳 **Premium Plan System**  
-  Supports Free, Premium Pro, and Premium Ultra plans with controlled usage limits.
-
-- 🔐 **Security-Focused System**  
-  Built with native PHP, MySQL/MariaDB, PDO prepared statements, CSRF protection, secure password hashing, and private backend configuration.
-
 ---
 
 ### ✨ EditorSuper AI Platform
